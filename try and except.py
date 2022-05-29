@@ -1,4 +1,4 @@
-# This is also teh first code I wrote using intEasylen (a function I made)
+# This is also the first code I wrote using intEasylen (a function I made)
 
 try:
     def intEasylen(number):
